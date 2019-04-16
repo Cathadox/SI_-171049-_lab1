@@ -1,0 +1,6 @@
+commit ab63dc32cfe986c3cbaab4e01b89ce5082b4b140 (HEAD -> logs, origin/master, master)
+Author: Cathadox <dimitrij.dobrevski@gmail.com>
+Date:   Tue Apr 16 15:40:32 2019 +0200
+
+    Initial commit
+
